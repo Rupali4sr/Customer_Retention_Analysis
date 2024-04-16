@@ -10,12 +10,12 @@ The goal is to provide actionable insights to better understand customer behavio
 
 # 👩‍🏭Findings
 
-1)Demographics Analysis:
+1) Demographics Analysis:
 
  * Visualize customer churn based on demographic factors such as gender, senior citizen status, partner, and dependents.
  * Identify any demographic segments that exhibit higher churn rates, enabling targeted retention strategies.
 
-2)Customer Account Information:
+2) Customer Account Information:
 
  * Analyze the relationship between tenure and churn rate to understand the impact of customer longevity on churn behavior.
  * Explore the influence of services such as phone service, multiple lines, tech support, streaming TV, and streaming movies on churn propensity.
