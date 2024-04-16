@@ -2,11 +2,14 @@
 
 PWC Switzerland Virtual Internship Task 2
 
-As a part of the PWC Switzerland Virtual Internship Program offered by Forage, I have created "CustomerRetention Analysis" dashboard using Power BI. The Telecommuniation data contains attributes such as customerID, gender, SeniorCitizen, Partner, Dependents, tenure, PhoneService, MultipleLines, TechSupport, StreamingTV, StreamingMovies, Contract, PaperlessBilling, PaymentMethod, MonthlyCharges, TotalCharges, numAdminTickets, numTechTickets, Churn(Yes/No).
+As a part of the PWC Switzerland Virtual Internship Program offered by Forage, I have created "CustomerRetention Analysis" dashboard using Power BI. 
+The Telecommuniation data contains attributes such as:
+customerID, gender, SeniorCitizen, Partner, Dependents, tenure, PhoneService, MultipleLines, TechSupport, StreamingTV, StreamingMovies, Contract, PaperlessBilling, PaymentMethod, MonthlyCharges, TotalCharges, numAdminTickets, numTechTickets, Churn(Yes/No).
 
 # 📊 Objective
 
 The goal is to provide actionable insights to better understand customer behavior and factors influencing churn. Through visualizations and analytics, the dashboard aims to identify patterns, trends, and potential risk factors associated with customer churn, enabling proactive strategies to mitigate churn and improve customer retention.
+
 
 # 👩‍🏭Findings
 
@@ -39,8 +42,12 @@ The goal is to provide actionable insights to better understand customer behavio
 * Analyze the distribution of monthly charges among churned customers to identify any pricing-related factors contributing to churn risk.
 * Assess the relationship between monthly charges and churn rate to determine if there are pricing thresholds that influence churn behavior.
 
+
+
   
 By synthesizing these findings, stakeholders can gain a comprehensive understanding of customer churn dynamics and develop targeted retention strategies to minimize churn, enhance customer loyalty, and optimize business performance.
+
+
 
 
 ![dashboard 1](https://github.com/Rupali4sr/Customer_Retention_Analysis/assets/143262390/3d3e64af-544d-4eca-9ace-c1d0f367a084) 
